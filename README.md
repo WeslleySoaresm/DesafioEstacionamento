@@ -36,3 +36,7 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+##Feedback
+
+Este projeto foi desenvolvido para simular um sistema de gerenciamento de estacionamento. O programa permite adicionar, remover e listar veículos, além de calcular o valor a ser pago com base no tempo de permanência. Durante a conclusão deste desafio, aprendi muito sobre conceitos essenciais de C#, como a criação de classes, manipulação de listas (List<T>), e a construção de um menu interativo para o usuário no console.
